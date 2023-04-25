@@ -1,4 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
 header {
-    background-color: rgb(196, 0, 0);
+    background-color: #6E44C3;
     color: white;
+    display: flex;
+    justify-content: space-around;
+    padding: 75px 0;
+
+}
+
+.logoimg {
+    width: 106;
+    height: 113;
+}
+
+.abas {
+    display: inline-block;
+    margin: 0 33px;
 }
