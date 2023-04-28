@@ -8,13 +8,52 @@ header {
     color: white;
     display: flex;
     justify-content: space-around;
-    padding: 75px 0;
+    
 
+    font-family: 'Inter', sans-serif;
 }
 
-.logoimg {
-    width: 106;
+nav {
+    margin-top: 95px;
+    
+}
+
+section {
+    background-image: linear-gradient(#6E44C3, #A000D9);
+    color: white;
+    display: flex;
+    padding: 200px;
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+header img {
+    width: 106px;
     height: 113;
+    margin-top: 47px;
+    margin-left: 73px;
+}
+
+.division-texts {
+    width: 801px;
+    height: 69px;
+}
+
+.title-style-section {
+    padding: 44px;
+    font-size: 64px;
+    text-align: center;
+}
+
+.desc-section {
+    font-size: 20px;
+    text-align-last: center;
+}
+
+.section-img {
+    width: 370px;
+    height: 370px;
+    margin-left: 100px;
 }
 
 .abas {
